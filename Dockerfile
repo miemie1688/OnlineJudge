@@ -5,7 +5,7 @@ WORKDIR /app
 RUN <<EOS
 set -ex
 apk add unzip
-wget https://github.com/QingdaoU/OnlineJudgeFE/releases/download/oj_2.7.5/dist.zip
+wget https://github.com/miemie1688/OnlineJudgeFE/releases/download/dist.zip
 unzip dist.zip
 rm -f dist.zip
 EOS
