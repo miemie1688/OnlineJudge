@@ -76,7 +76,6 @@ Modern browsers(chrome, firefox) 和 Internet Explorer 10+.
 ## 特别感谢
 
 + 所有为本项目做出贡献的人
-+ 同学为我们提供了很多意见和建议
 
 如果您觉得这个项目还不错，就star一下吧 ：)
 

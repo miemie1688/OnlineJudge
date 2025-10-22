@@ -5,7 +5,7 @@
 [![Django Rest Framework](https://img.shields.io/badge/django_rest_framework-3.12.0-blue.svg?style=flat-square)](http://www.django-rest-framework.org/)
 [![Build Status](https://travis-ci.org/QingdaoU/OnlineJudge.svg?branch=master)](https://travis-ci.org/QingdaoU/OnlineJudge)
 
-> #### An onlinejudge system based on Python and Vue. [Demo](https://qduoj.com)
+> #### An onlinejudge system based on Python and Vue. [Demo](https://60.204.175.19/)
 
 [中文文档](README-CN.md)
 
@@ -24,14 +24,14 @@
 
 Main modules are available below:
 
-+ Backend(Django): [https://github.com/QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge)
-+ Frontend(Vue): [https://github.com/QingdaoU/OnlineJudgeFE](https://github.com/QingdaoU/OnlineJudgeFE)
-+ Judger Sandbox(Seccomp): [https://github.com/QingdaoU/Judger](https://github.com/QingdaoU/Judger)
-+ JudgeServer(A wrapper for Judger): [https://github.com/QingdaoU/JudgeServer](https://github.com/QingdaoU/JudgeServer)
++ Backend(Django): [https://github.com/miemie1688/OnlineJudge](https://github.com/miemie1688/OnlineJudge)
++ Frontend(Vue): [https://github.com/miemie1688/OnlineJudgeFE](https://github.com/miemie1688/OnlineJudgeFE)
++ Judger Sandbox(Seccomp): [https://github.com/miemie1688/Judger](https://github.com/miemie1688/Judger)
++ JudgeServer(A wrapper for Judger): [https://github.com/miemie1688/JudgeServer](https://github.com/miemie1688/JudgeServer)
 
 ## Installation
 
-Follow me:  [https://github.com/QingdaoU/OnlineJudgeDeploy/tree/2.0](https://github.com/QingdaoU/OnlineJudgeDeploy/tree/2.0)
+Follow me:  [https://github.com/miemie1688/OnlineJudgeDeploy/tree/2.0](https://github.com/miemie1688/OnlineJudgeDeploy/tree/2.0)
 
 ## Documents
 
@@ -79,7 +79,6 @@ Modern browsers(chrome, firefox) and Internet Explorer 10+.
 
 + I'd appreciate a star if you find this helpful.
 + Thanks to everyone that contributes to this project.
-+ Special thanks to [heb1c](https://github.com/hebicheng), who has given us a lot of suggestions.
 
 ## License
 
