@@ -5,7 +5,7 @@
 [![Django Rest Framework](https://img.shields.io/badge/django_rest_framework-3.12.0-blue.svg?style=flat-square)](http://www.django-rest-framework.org/)
 [![Build Status](https://travis-ci.org/QingdaoU/OnlineJudge.svg?branch=master)](https://travis-ci.org/QingdaoU/OnlineJudge)
 
-> #### 基于 Python 和 Vue 的在线评测系统。 [Demo](https://qduoj.com)
+> #### 基于 Python 和 Vue 的在线评测系统。 [Demo](https://60.204.175.19/)
 
 [English Document](README.md)
 
@@ -23,14 +23,14 @@
 
 主要模块均已开源:
 
-+ 后端(Django): [https://github.com/QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge)
-+ 前端(Vue): [https://github.com/QingdaoU/OnlineJudgeFE](https://github.com/QingdaoU/OnlineJudgeFE)
-+ 判题沙箱(Seccomp): [https://github.com/QingdaoU/Judger](https://github.com/QingdaoU/Judger)
-+ 判题服务器(对Judger的封装): [https://github.com/QingdaoU/JudgeServer](https://github.com/QingdaoU/JudgeServer)
++ 后端(Django): [https://github.com/miemie1688/OnlineJudge](https://github.com/miemie1688/OnlineJudge)
++ 前端(Vue): [https://github.com/miemie1688/OnlineJudgeFE](https://github.com/miemie1688/OnlineJudgeFE)
++ 判题沙箱(Seccomp): [https://github.com/miemie1688/Judger](https://github.com/miemie1688/Judger)
++ 判题服务器(对Judger的封装): [https://github.com/miemie1688/JudgeServer](https://github.com/miemie1688/JudgeServer)
 
 ## 安装
 
-请根据此进行安装:  [https://github.com/QingdaoU/OnlineJudgeDeploy/tree/2.0](https://github.com/QingdaoU/OnlineJudgeDeploy/tree/2.0)
+请根据此进行安装:  [https://github.com/miemie1688/OnlineJudgeDeploy/tree/2.0](https://github.com/miemie1688/OnlineJudgeDeploy/tree/2.0)
 
 ## 文档
 
@@ -76,7 +76,7 @@ Modern browsers(chrome, firefox) 和 Internet Explorer 10+.
 ## 特别感谢
 
 + 所有为本项目做出贡献的人
-+ [heb1c](https://github.com/hebicheng) 同学为我们提供了很多意见和建议
++ 同学为我们提供了很多意见和建议
 
 如果您觉得这个项目还不错，就star一下吧 ：)
 
